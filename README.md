@@ -2,13 +2,13 @@
 
 ### Data & Anaytics Engineer
 
-🔭 I'm currently working on **ETL Projects with adhoc data stack**:
+🔭 I'm currently working on *ETL Projects with adhoc data stack*:
  - Pentaho
  - Snowflake
  - Denodo
  - Control-M
 
- 🌱 I'm currently learning hoe to build **ETL Projects with Modern Data Stack:
+ 🌱 I'm currently learning how to build *ETL Projects with Modern Data Stack*:
  - Python
  - Snowflake
  - dbt
