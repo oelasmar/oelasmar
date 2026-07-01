@@ -1,4 +1,4 @@
-# Hi 👋, I'm Omar El-Asmar Moreno
+Omar El-Asmar Moreno
 
 ### Data & Anaytics Engineer
 
