@@ -2,19 +2,20 @@
 
 ### Data & Anaytics Engineer
 
-- 🔭 I'm currently working on **ETL Projects with Modern Data Stack:
+🔭 I'm currently working on **ETL Projects with adhoc data stack:
+ - Pentaho
+ - Snowflake
+ - Denodo
+ - Control-M
+
+ 🌱 I'm currently learning hoe to build **ETL Projects with Modern Data Stack:
+ - Python
+ - Snowflake
  - dbt
  - databricks
- - Snowflake
- - Airflow**
+ - Airflow
 
-- 🌱 I'm currently learning **ETL Projects with Modern Data Stack:
- - dbt
- - databricks
- - Snowflake
- - Airflow**
-
-- 📫 How to reach me **omarelasmarmoreno@gmail.com**
+- 📫 How to reach me: **omarelasmarmoreno@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://my_porfolio](https://my_porfolio)**
 
