@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Omar El-Asmar Moreno
 
-<!--
-**oelasmar/oelasmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & Anaytics Engineer
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **ETL Projects with Modern Data Stack:
+ - dbt
+ - databricks
+ - Snowflake
+ - Airflow**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **ETL Projects with Modern Data Stack:
+ - dbt
+ - databricks
+ - Snowflake
+ - Airflow**
+
+- 📫 How to reach me **omarelasmarmoreno@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://my_porfolio](https://my_porfolio)**
+
+- 📄 Know about my experiences **[https://my_cv](https://my_cv)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/oelasmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oelasmar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oelasmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oelasmar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+
