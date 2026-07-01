@@ -2,7 +2,7 @@
 
 ### Data & Anaytics Engineer
 
-🔭 I'm currently working on **ETL Projects with adhoc data stack:
+🔭 I'm currently working on **ETL Projects with adhoc data stack**:
  - Pentaho
  - Snowflake
  - Denodo
