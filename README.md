@@ -1,4 +1,4 @@
-Omar El-Asmar Moreno
+# Omar El-Asmar Moreno
 
 ### Data & Anaytics Engineer
 
@@ -15,11 +15,11 @@ Omar El-Asmar Moreno
  - databricks
  - Airflow
 
-- 📫 How to reach me: **omarelasmarmoreno@gmail.com**
+📫 How to reach me: **omarelasmarmoreno@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://my_porfolio](https://my_porfolio)**
+👨‍💻 All of my projects are available at **[https://my_porfolio](https://my_porfolio)**
 
-- 📄 Know about my experiences **[https://my_cv](https://my_cv)**
+📄 Know about my experiences **[https://my_cv](https://my_cv)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
